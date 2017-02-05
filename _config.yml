@@ -1,0 +1,36 @@
+# Site settings
+email: libertysowl@gmail.com
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
+
+# SEO settings
+title: Liberty's Owl
+description: Heritage of Freedom
+url: "www.libertysowl.com"
+twitter_username: libertysowl
+default_img: 
+
+# Profile settings
+name: Liberty's Owl
+profile_img: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/D2.2.jpg
+profile: Heritage of Freedom. We share the ideas and opinions of people like us, who believe in freedom of choice. Liberty. Voluntaryism. Find free #eBooks on our website.
+social:
+  twitter: https://twitter.com/Libertys_Owl
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+ # This will require each of these gems automatically.
+
+theme: trophy_jekyll

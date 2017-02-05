@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Disobedience"
+date: 2017-01-15
+categories:
+  - Books
+description: 
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Henry_David_Thoreau_-_Dunshee_ambrotpe_1861.jpg/717px-Henry_David_Thoreau_-_Dunshee_ambrotpe_1861.jpg
+image-sm: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Henry_David_Thoreau_-_Dunshee_ambrotpe_1861.jpg/717px-Henry_David_Thoreau_-_Dunshee_ambrotpe_1861.jpg
+---
+<h2>Disobedience is the true foundation of liberty. The obedient must be slaves.<h2>

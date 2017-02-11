@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Discourse on Voluntary Servitude - Étienne de la Boétie"
-date: 2017-01-21
+title: "Self Reliance"
+date: 2017-01-22
 categories:
   - Books
 description: 

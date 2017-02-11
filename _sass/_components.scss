@@ -404,6 +404,7 @@
   max-width: $mq-md;
   margin: 0 auto;
   padding-bottom: 4em;
+  clear: both;
 
   @media (min-width: $mq-lg) {
     width: 55%;

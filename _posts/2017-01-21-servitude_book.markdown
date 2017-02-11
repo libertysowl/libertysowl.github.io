@@ -20,9 +20,10 @@ The essay argues that any tyrant remains in power until his subjects grant him t
 </div>
 
 <div id="posts_download">
-<a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuRTVJR05aQkFmamc" download>PDF version</a>
+<h2>Download</h2>
 <br>
-<a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuVXVaTmJybnRRcTg" download>ePub version</a>
+<a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuRTVJR05aQkFmamc" download>PDF</a>
+<a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuVXVaTmJybnRRcTg" download>ePub</a>
 
 </div>
 

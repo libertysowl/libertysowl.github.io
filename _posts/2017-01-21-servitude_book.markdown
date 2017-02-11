@@ -12,6 +12,6 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 The essay argues that any tyrant remains in power until his subjects grant him that, therefore delegitimizing every form of power. The original freedom of men would be indeed abandoned by society which, once corrupted by the habit, would have preferred the servitude of the courtier to the freedom of the free man, who refuses to be submissive and to obey.</p>
 <h4><a href="https://en.wikipedia.org/wiki/Discourse_on_Voluntary_Servitude"> Click here for more details.</a></h4>
 
-<a class="pure-button" href="https://drive.google.com/file/d/0B3RbVVPSsViuRTVJR05aQkFmamc">PDF version</a>
+<a class="button" href="https://drive.google.com/file/d/0B3RbVVPSsViuRTVJR05aQkFmamc">PDF version</a>
 <br>
-<a class="pure-button" href="https://drive.google.com/open?id=0B3RbVVPSsViuVXVaTmJybnRRcTg">ePub version</a>
+<a class="button" href="https://drive.google.com/open?id=0B3RbVVPSsViuVXVaTmJybnRRcTg">ePub version</a>

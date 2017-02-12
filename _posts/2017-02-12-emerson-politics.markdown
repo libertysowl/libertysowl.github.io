@@ -12,7 +12,7 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 ---
 
 <div style="clear: both">
-
+{{ post.pdf }}
 <div id="posts_download">
 <h2>Download</h2>
 <a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuVUJSRHVzNG41bE0" download>PDF</a>

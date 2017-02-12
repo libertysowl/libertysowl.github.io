@@ -22,7 +22,9 @@ layout: default
   </header>
 
   <section class="section-padding post" itemprop="articleBody">
-    {{ content }}
+
+	{% include download.html %}
+  {{ content }}
 	{% include share-page.html %}
   </section>
 

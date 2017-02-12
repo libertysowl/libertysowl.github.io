@@ -2,24 +2,14 @@
 layout: post
 title: "Politics - Ralph Waldo Emerson"
 date: 2017-01-21
-pdf: "https://drive.google.com/file/d/0B3RbVVPSsViuVUJSRHVzNG41bE0"
-epub: "https://drive.google.com/open?id=0B3RbVVPSsViuSHlvSjFMQ1l0bTg"
+pdf: "https://drive.google.com/file/d/0B3RbVVPSsViuZEhoZVYxd1h3M3c"
+epub: "https://drive.google.com/file/d/0B3RbVVPSsViuZmJuU1N6VThvN28"
 categories:
   - Books
 description: "Although not viewed as his most important essay in the second series, Emerson’s views on politics championed democracy and individualism, two ideas that are viewed today as undoubtedly American."
 image: https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg
 image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/Emerson_Politics_Frontpage_template.jpg
 ---
-
-<div style="clear: both">
-<div id="posts_download">
-<h2>Download</h2>
-<a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuVUJSRHVzNG41bE0" download>PDF</a>
-<a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuSHlvSjFMQ1l0bTg" download>ePub</a>
-
-</div>
-
-<div id="posts_main">
 
 <p>"Politics" is an essay by<a href="http://www.rwe.org/biography/"> Ralph Waldo Emerson</a>.</p>
 <p>Although not viewed as his most important essay in the second series, Emerson’s views on politics championed democracy and individualism, two ideas that are viewed today as undoubtedly American. By 1844, Emerson, then 41, had moved into a pragmatic balance of skepticism and idealism, happily providing him with “a way to dream as well as a way to live”. A quintessential American voice, Emerson believed that civilization was only beginning and could reach unfathomable places through moral force and creative intelligence.[2] This alone is not a reason to blindly follow the footsteps before us. Remember, he says, “The law is only a memorandum.” This gives rise to the most popular quote in this essay: “The less government we have the better.”</p>
@@ -28,8 +18,3 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 
 <p>Emerson also questioned property rights in Politics, noting that they are built not on democracy, but instead on owning. Believing that “property will always follow persons," Emerson believed personal rights were much more important than property rights.</p>
 <h4><a href="https://en.wikipedia.org/wiki/Politics_(essay)"> Click here for more details.</a></h4>
-
-</div>
-
-
-<div>

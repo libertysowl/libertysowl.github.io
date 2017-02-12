@@ -4,7 +4,7 @@ title: "Politics - Ralph Waldo Emerson"
 date: 2017-01-21
 categories:
   - Books
-description: 
+description: "Although not viewed as his most important essay in the second series, Emerson’s views on politics championed democracy and individualism, two ideas that are viewed today as undoubtedly American."
 image: https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg
 image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/Emerson_Politics_Frontpage_template.jpg
 ---

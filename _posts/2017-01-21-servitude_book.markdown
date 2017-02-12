@@ -13,7 +13,6 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 
 <div id="posts_download">
 <h2>Download</h2>
-<br>
 <a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuRTVJR05aQkFmamc" download>PDF</a>
 <a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuVXVaTmJybnRRcTg" download>ePub</a>
 

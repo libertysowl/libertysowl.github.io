@@ -12,11 +12,11 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 ---
 
 <div style="clear: both">
-{{ post.pdf }}
+{{ page.pdf }}
 <div id="posts_download">
 <h2>Download</h2>
-<a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuVUJSRHVzNG41bE0" download>PDF1</a>
-<a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuSHlvSjFMQ1l0bTg" download>ePub1</a>
+<a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuVUJSRHVzNG41bE0" download>PDF</a>
+<a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuSHlvSjFMQ1l0bTg" download>ePub</a>
 
 </div>
 

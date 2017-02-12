@@ -25,7 +25,7 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 
 <p>Emerson believed that an ideal government, aside from a nonexistent one dissolved when improvements in human character through love and wisdom could abolish the state,[3] was one that advocated for the growth of the individual, and be able to protect one’s individual rights. The individual would only be ready for democracy when they had become completely independent and self-reliant. Then the abolishment of government could be achieved. The intelligence needed from each individual would triumph over business interests and politics, because the mind is the richest asset you can have.</p>
 
-<p>Emerson also questioned property rights in Politics, noting that they are built not on democracy, but instead on owning. Believing that “property will always follow persons," Emerson believed personal rights were much more important than property rights."</p>
+<p>Emerson also questioned property rights in Politics, noting that they are built not on democracy, but instead on owning. Believing that “property will always follow persons," Emerson believed personal rights were much more important than property rights.</p>
 <h4><a href="https://en.wikipedia.org/wiki/Politics_(essay)"> Click here for more details.</a></h4>
 
 </div>

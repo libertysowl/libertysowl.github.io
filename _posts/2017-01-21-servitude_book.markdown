@@ -11,6 +11,14 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 
 <div style="clear: both">
 
+<div id="posts_download">
+<h2>Download</h2>
+<br>
+<a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuRTVJR05aQkFmamc" download>PDF</a>
+<a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuVXVaTmJybnRRcTg" download>ePub</a>
+
+</div>
+
 <div id="posts_main">
 
 <p>The Discourse on Voluntary Servitude, or the Against-One (French: Discours de la servitude volontaire ou le Contr'un) is the most famous work of Étienne de La Boétie. The text was written probably around 1549 and published clandestinely in 1576 under the title of Le Contr'un ("The Against-One"). "One" here means "single ruler".
@@ -19,12 +27,5 @@ The essay argues that any tyrant remains in power until his subjects grant him t
 
 </div>
 
-<div id="posts_download">
-<h2>Download</h2>
-<br>
-<a class="preview__more" href="https://drive.google.com/file/d/0B3RbVVPSsViuRTVJR05aQkFmamc" download>PDF</a>
-<a class="preview__more" href="https://drive.google.com/open?id=0B3RbVVPSsViuVXVaTmJybnRRcTg" download>ePub</a>
-
-</div>
 
 <div>

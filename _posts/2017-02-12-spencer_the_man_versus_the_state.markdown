@@ -4,7 +4,7 @@ title: "The Man versus the State - Herbert Spencer"
 date: 2017-01-21
 categories:
   - Books
-description: "In this book, English libertarian sociologist Herbert Spencer sees a statist corruption appearing within the liberal ideological framework, and warns of what he calls, "the coming slavery"
+description: "In this book, English libertarian sociologist Herbert Spencer sees a statist corruption appearing within the liberal ideological framework, and warns of what he calls, 'the coming slavery'"
 image: https://upload.wikimedia.org/wikipedia/commons/9/96/Herbert_Spencer.jpg
 image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/Spencer_Man_Versus_State_frontpage.jpg
 ---

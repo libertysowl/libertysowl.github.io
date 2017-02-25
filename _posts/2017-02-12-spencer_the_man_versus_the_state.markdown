@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Man versus the State - Herbert Spencer"
-date: 2017-01-21
+date: 2017-02-25
 pdf: "https://drive.google.com/file/d/0B3RbVVPSsViuVUJSRHVzNG41bE0"
 epub: "https://drive.google.com/open?id=0B3RbVVPSsViuSHlvSjFMQ1l0bTg"
 categories:

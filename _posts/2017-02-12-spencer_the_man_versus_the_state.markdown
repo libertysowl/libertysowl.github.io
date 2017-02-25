@@ -12,6 +12,6 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 ---
 
 
-<p>The Man Versus the State is a political theory book by <a href="http://www.iep.utm.edu/spencer/"> Herbert Spencer</a>.</p>
+<p>The Man Versus the State is a political theory book by <a href="http://www.iep.utm.edu/spencer/">Herbert Spencer</a>.</p>
 <p>It was first published in book form in 1884 by Williams and Norgate, London and Edinburgh, from articles previous published in The Contemporary Review. The book consists of four main chapters : The New Toryism, The coming Slavery, The sins of legislators and The Great Political Superstition. In this book, English libertarian sociologist Herbert Spencer sees a statist corruption appearing within the liberal ideological framework, and warns of what he calls, "the coming slavery". And he presents the argument that liberalism, which liberated the world from slavery and feudalism, was undergoing a transformation. Its new love for the state would put liberalism behind a movement to create a new despotism that would be worse than the old.</p>
 <h4><a href="https://en.wikipedia.org/wiki/The_Man_Versus_the_State"> Click here for more details.</a></h4>

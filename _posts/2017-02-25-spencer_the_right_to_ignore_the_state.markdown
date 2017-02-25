@@ -12,5 +12,5 @@ image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/ma
 ---
 
 
-<p>The Right to Ignore the State is an essay written by<a href="http://www.iep.utm.edu/spencer/"> Herbert Spencer</a>.It was originally published in the book Social Statics as Chapter XIX, in 1851.</p>
+<p>The Right to Ignore the State is an essay written by <a href="http://www.iep.utm.edu/spencer/">Herbert Spencer</a>.It was originally published in the book Social Statics as Chapter XIX, in 1851.</p>
 <p>"It is a mistake to assume that government must necessarily last forever." The Right to Ignore the State is one of the most spirited attacks on statism ever written.</p>

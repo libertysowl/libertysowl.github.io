@@ -7,7 +7,7 @@ epub: "https://drive.google.com/open?id=0B3RbVVPSsViuYmg0Q0NJc09WZHc"
 categories:
   - Books
 description: "De Profundis is a letter written by Oscar Wilde during his imprisonment in Reading Gaol, to 'Bosie'."
-image: http://oll.libertyfund.org/thumbs/go-n1-0-0;go-n1/23611-1646-10-12-Overton_ArrowTyrants_TP600.jpg
+image: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/levellers.jpg
 image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/Overton_Arrow_Frontpage.jpg
 ---
 

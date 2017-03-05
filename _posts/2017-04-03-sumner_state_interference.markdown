@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State Interference - William Graham Sumner"
-date: 2017-01-21
+date: 2017-03-04
 pdf: "https://drive.google.com/open?id=0B3RbVVPSsViuQWljVFpVanVXVTA"
 epub: "https://drive.google.com/open?id=0B3RbVVPSsViuVFRUVy1XbWVJYW8"
 categories:

@@ -6,7 +6,7 @@ pdf: "https://drive.google.com/open?id=0B3RbVVPSsViuVTZteGlFTTAwUlk"
 epub: "https://drive.google.com/open?id=0B3RbVVPSsViuYmg0Q0NJc09WZHc"
 categories:
   - Books
-description: "De Profundis is a letter written by Oscar Wilde during his imprisonment in Reading Gaol, to 'Bosie'."
+description: "An Arrow Against all Tyrants (or Tyranies) is a pamphlet written by Richard Overton</a>, Leveller during the Civil War and Interregnum in England"
 image: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/levellers.jpg
 image-sm: https://raw.githubusercontent.com/libertysowl/libertysowl.github.io/master/images/Overton_Arrow_Frontpage.jpg
 ---

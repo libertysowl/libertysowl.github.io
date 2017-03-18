@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Treason - Lysander Spooner"
-date: 2017-18-04
+date: 2017-03-18
 pdf: "https://drive.google.com/open?id=0B3RbVVPSsViudFdXaFVYZkNKNjg"
 epub: "#"
 categories:

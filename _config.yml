@@ -34,10 +34,3 @@ gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
  # This will require each of these gems automatically.
 
 theme: trophy_jekyll
-
-# Search
-gems: [SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
-})

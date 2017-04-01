@@ -36,8 +36,7 @@ gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
 theme: trophy_jekyll
 
 # Search
-gems: [
-SimpleJekyllSearch({
+gems: [SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',

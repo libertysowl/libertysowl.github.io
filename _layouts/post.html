@@ -3,11 +3,6 @@ layout: default
 tipue_search_active: true
 ---
 
-<div class="tree">
-<a id="displayText" href="javascript:toggle('toggleText2');">Search</a>
-<div id="toggleText2" style="display: none" href="javascript:toggle();">{% include search.html %}</div>	
-</div>
-
 
 <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -16,6 +11,16 @@ tipue_search_active: true
       <i class="fa fa-lg fa-arrow-left"></i>
       <span>Back to Posts</span>
     </a>
+	
+	<div class="search_wrapper">
+		<a id="displayText" href="javascript:toggle('toggleText2');">Search</a>
+		<div id="toggleText2" style="display: none" href="javascript:toggle();">{% include search.html %}</div>	
+	</div>	
+
+	
+	
+	
+	
     <figure class="absolute-bg mast__img" style="background-image: url('{{ page.image }}');"></figure>
     <div class="mast__container">
       <span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></span>

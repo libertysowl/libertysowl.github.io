@@ -1,2 +1,2 @@
 - title: Search
-  body: {% include search.html %}
+  body: <p>a collapsible div</p>

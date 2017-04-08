@@ -34,3 +34,10 @@ gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
  # This will require each of these gems automatically.
 
 theme: trophy_jekyll
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [search.html]

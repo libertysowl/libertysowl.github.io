@@ -541,3 +541,18 @@
 .preview__more {border: 3px !important;}
 
 
+/**
+ * Search Wrapper
+ */
+.search_wrapper {
+  @extend %letter-spacing;
+
+  position: absolute;
+  top: 1.25em;
+  left: 1em;
+  z-index: 99;
+
+  display: flex;
+  align-items: center;
+
+  font-family: $font-body;

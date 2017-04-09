@@ -1,4 +1,20 @@
-<form action="{{ base.url }}/search/">
+---
+layout: default
+title: Archive
+description: 
+permalink: /archive/
+---
+<section class="archives" itemscope itemtype="http://schema.org/Blog">
+  <a class="nav nav--black" href="{{ site.baseurl }}/">
+    <i class="fa fa-lg fa-arrow-left"></i>
+    <span>Back to Posts</span>
+  </a>
+  <header class="archives__header">
+    <span>Search</span>
+  </header>
+  <div class="section-padding archives__container">
+
+  <form action="{{ base.url }}/search/">
   <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
   <div style="clear: both;"></div>
 </form>
@@ -10,4 +26,9 @@ $(document).ready(function() {
   $('#tipue_search_input').tipuesearch();
 });
 </script>
+  
+  
+  </div>
+</section>
+
 
